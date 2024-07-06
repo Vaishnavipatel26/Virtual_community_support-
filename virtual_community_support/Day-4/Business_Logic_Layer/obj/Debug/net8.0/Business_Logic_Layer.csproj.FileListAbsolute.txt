@@ -1,0 +1,12 @@
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.deps.json
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.dll
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.pdb
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfo.cs
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.sourcelink.json
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.dll
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\obj\Debug\net8.0\refint\Business_Logic_Layer.dll
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.pdb
+D:\LEARNING\Tatvasoft\Day-4\Business_Logic_Layer\obj\Debug\net8.0\ref\Business_Logic_Layer.dll
